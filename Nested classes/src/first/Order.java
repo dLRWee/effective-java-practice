@@ -1,4 +1,4 @@
-package com.dlrwee.example.nonstaticmember;
+package first;
 
 import java.util.ArrayList;
 import java.util.List;

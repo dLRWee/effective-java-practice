@@ -1,4 +1,4 @@
-package com.dlrwee.example.staticmember;
+package second;
 
 import java.util.ArrayList;
 import java.util.List;

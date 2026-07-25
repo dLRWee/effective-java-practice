@@ -1,5 +1,3 @@
-package com.dlrwee.example.separate;
-
 import java.util.ArrayList;
 import java.util.List;
 

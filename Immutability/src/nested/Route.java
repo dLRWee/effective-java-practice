@@ -1,5 +1,3 @@
-package com.dlrwee.example.nested;
-
 import java.util.ArrayList;
 import java.util.List;
 

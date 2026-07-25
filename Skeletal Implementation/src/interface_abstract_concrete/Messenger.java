@@ -1,4 +1,4 @@
-package com.dlrwee.example.interface_abstract_concrete;
+package interface_abstract_concrete;
 
 public interface Messenger 
 {

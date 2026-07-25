@@ -1,4 +1,4 @@
-package com.dlrwee.example.wrapper;
+package wrapper;
 
 import java.util.AbstractList;
 import java.util.List;

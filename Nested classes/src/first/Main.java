@@ -1,9 +1,9 @@
-package com.dlrwee.example.nonstaticmember;
+package first;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.dlrwee.example.nonstaticmember.Order.Item;
+import static first.Order.Item;
 
 class Main
 {

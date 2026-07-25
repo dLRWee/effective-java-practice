@@ -1,6 +1,4 @@
-package com.smarthome.core;
-
-class DeviceConfig
+public class DeviceConfig
 {
     private final int deviceId = 67;
 
