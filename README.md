@@ -12,21 +12,6 @@ This repository contains my personal practice and code examples developed while 
 
 ---
 
-## 🛠 Tech Stack
-
-* **Language:** Java
-* **IDE / Editor:** Visual Studio Code
-
----
-
 ## 📁 Project Structure
 
-The project is structured into folders representing specific concepts and items from the book:
-
-* `Bounded Wildcards (PECS)` — Practical application of the Producer Extends, Consumer Super principle.
-* `Varargs and Generics` — Combining variable arguments and generics safely.
-* `Lazy Initialization` — Different approaches to lazy initialization and thread safety.
-* `Exception Translation` — Transforming low-level exceptions into higher-level abstractions.
-* `Do not Return Null` — Returning empty collections or optionals instead of nulls.
-* `Chapter 7` — Comprehensive practice with Lambdas and Streams.
-* *...and other folders covering key Java design principles and guidelines.*
+The project is structured into folders representing specific concepts and items from the book.
